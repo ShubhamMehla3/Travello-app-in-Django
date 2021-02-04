@@ -1,0 +1,50 @@
+2021-02-02 13:47:45,476:INFO:Initializing predict_model()
+2021-02-02 13:47:45,477:INFO:predict_model(estimator=<fbprophet.forecaster.Prophet object at 0x000001BAC8D565E0>, probability_threshold=None, encoded_labels=True, round=0, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2021-02-02 13:47:45,478:INFO:Checking exceptions
+2021-02-02 13:47:45,479:INFO:Preloading libraries
+2021-02-02 13:47:45,482:ERROR:Pipeline not found. Exception:
+2021-02-02 13:47:45,491:ERROR:Traceback (most recent call last):
+  File "C:\Users\HP\anaconda3\envs\fb\lib\site-packages\pycaret\internal\tabular.py", line 8318, in predict_model
+    dtypes = prep_pipe.named_steps["dtypes"]
+NameError: name 'prep_pipe' is not defined
+
+2021-02-02 13:48:13,128:INFO:Initializing predict_model()
+2021-02-02 13:48:13,129:INFO:predict_model(estimator=<fbprophet.forecaster.Prophet object at 0x000001BAC8D565E0>, probability_threshold=None, encoded_labels=True, round=0, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2021-02-02 13:48:13,132:INFO:Checking exceptions
+2021-02-02 13:48:13,134:INFO:Preloading libraries
+2021-02-02 13:48:13,136:ERROR:Pipeline not found. Exception:
+2021-02-02 13:48:13,138:ERROR:Traceback (most recent call last):
+  File "C:\Users\HP\anaconda3\envs\fb\lib\site-packages\pycaret\internal\tabular.py", line 8318, in predict_model
+    dtypes = prep_pipe.named_steps["dtypes"]
+NameError: name 'prep_pipe' is not defined
+
+2021-02-02 13:48:45,263:INFO:Initializing predict_model()
+2021-02-02 13:48:45,264:INFO:predict_model(estimator=<fbprophet.forecaster.Prophet object at 0x000001BAC8D565E0>, probability_threshold=None, encoded_labels=True, round=0, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2021-02-02 13:48:45,266:INFO:Checking exceptions
+2021-02-02 13:48:45,270:INFO:Preloading libraries
+2021-02-02 13:48:45,273:ERROR:Pipeline not found. Exception:
+2021-02-02 13:48:45,274:ERROR:Traceback (most recent call last):
+  File "C:\Users\HP\anaconda3\envs\fb\lib\site-packages\pycaret\internal\tabular.py", line 8318, in predict_model
+    dtypes = prep_pipe.named_steps["dtypes"]
+NameError: name 'prep_pipe' is not defined
+
+2021-02-02 13:54:18,910:INFO:Initializing predict_model()
+2021-02-02 13:54:18,911:INFO:predict_model(estimator=<fbprophet.forecaster.Prophet object at 0x0000025A949465B0>, probability_threshold=None, encoded_labels=True, round=0, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2021-02-02 13:54:18,914:INFO:Checking exceptions
+2021-02-02 13:54:18,916:INFO:Preloading libraries
+2021-02-02 13:54:18,918:ERROR:Pipeline not found. Exception:
+2021-02-02 13:54:18,929:ERROR:Traceback (most recent call last):
+  File "C:\Users\HP\anaconda3\envs\fb\lib\site-packages\pycaret\internal\tabular.py", line 8318, in predict_model
+    dtypes = prep_pipe.named_steps["dtypes"]
+NameError: name 'prep_pipe' is not defined
+
+2021-02-02 15:23:20,017:INFO:Initializing predict_model()
+2021-02-02 15:23:20,019:INFO:predict_model(estimator=<fbprophet.forecaster.Prophet object at 0x00000297272875B0>, probability_threshold=None, encoded_labels=True, round=0, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2021-02-02 15:23:20,020:INFO:Checking exceptions
+2021-02-02 15:23:20,021:INFO:Preloading libraries
+2021-02-02 15:23:20,022:ERROR:Pipeline not found. Exception:
+2021-02-02 15:23:20,032:ERROR:Traceback (most recent call last):
+  File "C:\Users\HP\anaconda3\envs\fb\lib\site-packages\pycaret\internal\tabular.py", line 8318, in predict_model
+    dtypes = prep_pipe.named_steps["dtypes"]
+NameError: name 'prep_pipe' is not defined
+
